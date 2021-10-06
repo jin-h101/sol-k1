@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .speaker_cls-1{fill:#ff8b23}.speaker_cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="그룹_129" transform="translate(-101 -363)">
+        <g id="그룹_72" transform="translate(62 293.941)">
+            <g id="그룹_70">
+                <path id="패스_134" d="M70.561 79.607h2.512a.4.4 0 0 1 0 .8h-2.512" class="speaker_cls-1"/>
+                <path id="패스_135" d="M70.149 76.955l2.439-.765a.4.4 0 0 1 .241.759l-2.442.766" class="speaker_cls-1"/>
+                <path id="패스_136" d="M70.387 82.295l2.442.768a.4.4 0 0 1-.241.759l-2.439-.767" class="speaker_cls-1"/>
+            </g>
+            <g id="그룹_71">
+                <path id="패스_137" fill="#ff8b23" fill-rule="evenodd" d="M67.862 83.648c-.543-7.158-6.639-13.191-15.19-12.541A13.7 13.7 0 0 0 40.131 83.09a13.907 13.907 0 0 0 10.452 15.469c.935.228 2.031.064 3.2.418 2.42.728 3.591 3.127 6.269 3.9a20.753 20.753 0 0 0-.695-4.6c.742-1.168 2.121-1.384 3.064-2.089a13.838 13.838 0 0 0 5.441-12.54z"/>
+                <path id="패스_138" d="M54.538 81.729a1.395 1.395 0 1 1-1.395-1.393 1.4 1.4 0 0 1 1.395 1.393z" class="speaker_cls-3"/>
+                <path id="패스_139" d="M62.4 81.729a1.395 1.395 0 1 1-1.4-1.393 1.394 1.394 0 0 1 1.4 1.393z" class="speaker_cls-3"/>
+                <path id="패스_140" d="M59.569 84.541a2.346 2.346 0 1 1-4.692 0" class="speaker_cls-3"/>
+            </g>
+        </g>
+        <path id="사각형_71" fill="none" d="M0 0H36V36H0z" transform="translate(101 363)"/>
+    </g>
+</svg>

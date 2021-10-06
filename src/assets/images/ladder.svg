@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="625px" height="300px" viewBox="0 0 625 300" style="enable-background:new 0 0 625 300;" xml:space="preserve">
+<metadata class="index" >2,0,1</metadata>
+<style type="text/css">
+	.st0{fill:none;stroke:#E4C38F;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#E4C38F;stroke-width:30;stroke-linecap:square;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#E4C38F;stroke-width:30;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#E4C38F;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{opacity:0;fill:none;stroke:#BF6700;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{opacity:0;fill:none;stroke:#61BC00;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{opacity:0;fill:none;stroke:#0074BC;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="st0" x1="310.9" y1="15.6" x2="310.9" y2="231.3"/>
+	<line class="st0" x1="588.6" y1="15.6" x2="588.6" y2="231.3"/>
+	<line class="st0" x1="36.4" y1="231.3" x2="36.4" y2="15.6"/>
+	<polyline class="st1" points="588.6,158 310.9,158 310.9,123.5 46.2,123.5 	"/>
+	<line class="st2" x1="36.4" y1="182.9" x2="310.9" y2="182.9"/>
+	<line class="st0" x1="310.9" y1="80.1" x2="588" y2="80.1"/>
+</g>
+<path class="st3 blank" d="M69.9,286.8c0,5.5-4.5,10-10,10h-47c-5.5,0-10-4.5-10-10v-47c0-5.5,4.5-10,10-10h47c5.5,0,10,4.5,10,10V286.8z"
+	/>
+<path class="st3 blank" d="M344.4,286.8c0,5.5-4.5,10-10,10h-47c-5.5,0-10-4.5-10-10v-47c0-5.5,4.5-10,10-10h47c5.5,0,10,4.5,10,10V286.8z
+	"/>
+<path class="st3 blank" d="M622.1,286.8c0,5.5-4.5,10-10,10h-47c-5.5,0-10-4.5-10-10v-47c0-5.5,4.5-10,10-10h47c5.5,0,10,4.5,10,10V286.8z
+	"/>
+<path id="_x31_" class="st4 hiddenPath" d="M36.4,59.6 L36.4,117.4 L310.9,117.4 L310.9,164 L588.6,164 L588.6,217.2"/>
+<path id="_x32_" class="st5 hiddenPath" d="M310.9,59.6 L310.9,74.1 L579.6,74.2 L579.6,152.1 L301.9,152 L301.9,176.9 L36.4,176.9 
+	36.4,217.2 "/>
+<path id="_x33_" class="st6 hiddenPath" d="M588.6,59.6 L588.6,86.1 L319.9,86.1 L319.9,129.5 L45.4,129.5 L45.4,188.9 L310.9,188.9 
+	310.9,217.2 "/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 112 112">
+    <defs>
+        <style>
+            .pinkCircle_cls-2{fill:#fff;opacity:.3}
+        </style>
+    </defs>
+    <g id="그룹_200" transform="translate(-171.222 -289.617)">
+        <path id="패스_225" fill="#ed9de8" d="M171.222 345.618a56 56 0 1 0 56-56 56 56 0 0 0-56 56z"/>
+        <path id="패스_226" d="M209.107 304.719c5.535 3.7 5.111 14.047-.947 23.116s-15.459 13.418-20.994 9.719-5.111-14.048.947-23.115 15.458-13.418 20.994-9.72z" class="pinkCircle_cls-2"/>
+        <path id="패스_227" d="M185.744 340.579a2.294 2.294 0 1 1-2.967-1.312 2.292 2.292 0 0 1 2.967 1.312z" class="pinkCircle_cls-2"/>
+    </g>
+</svg>

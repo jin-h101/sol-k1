@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'NanumGothic';
+    src: url('../fonts/NanumGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* @font-face {
+    font-family: 'NanumGothicBold';
+    src: url('../fonts/NanumGothicBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: bold;
+} */
+@font-face {
+    font-family: 'NanumPen';
+    src: url('../fonts/NanumPen.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CookieRunRegular';
+    src: url('../fonts/CookieRunRegular.otf') format('OpenType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumBarunpenR';
+    src: url('../fonts/NanumBarunpenR.otf') format('OpenType');
+    font-weight: normal;
+    font-style: normal;
+}

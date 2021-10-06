@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .hint-1{fill:#666}.hint-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="그룹_27" transform="translate(-413.119 -250.143)">
+        <g id="그룹_26">
+            <circle id="타원_18" cx="7.468" cy="7.468" r="7.468" class="hint-1" transform="translate(420.732 256.376)"/>
+            <path id="사각형_16" d="M0 0H1.912V4.463H0z" class="hint-1" transform="translate(427.245 250.143)"/>
+            <path id="사각형_17" d="M0 0H1.912V3.507H0z" class="hint-1" transform="rotate(-37.94 579.276 -483.656)"/>
+            <g id="그룹_25">
+                <rect id="사각형_18" width="1.602" height="6.684" class="hint-2" rx=".801" transform="translate(427.399 259.096)"/>
+                <rect id="사각형_19" width="1.733" height="1.733" class="hint-2" rx=".866" transform="translate(427.334 266.859)"/>
+            </g>
+            <path id="패스_21" d="M431.293 271.733v6.079a3.218 3.218 0 0 1-6.187 0v-6.082a7.451 7.451 0 0 0 6.187 0z" class="hint-1"/>
+            <path id="사각형_20" d="M0 0H3.507V1.912H0z" class="hint-1" transform="rotate(-52.06 477.83 -315.007)"/>
+        </g>
+        <path id="사각형_21" fill="none" d="M0 0H30V30H0z" transform="translate(413.119 250.143)"/>
+    </g>
+</svg>

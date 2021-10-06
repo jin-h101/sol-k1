@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="19.998" viewBox="0 0 20 19.998">
+    <defs>
+        <style>
+            .pencil_line_cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="그룹_61" transform="translate(-698.413 -203.826)">
+        <path id="패스_122" fill="#c6b895" d="M714.006 204.288l-1.266 1.267-.617-.616-12.727 12.728-.982 6.157 6.16-.98 12.726-12.725-.617-.618 1.267-1.267a1.572 1.572 0 0 0 0-2.227l-1.718-1.718a1.572 1.572 0 0 0-2.226-.001z" transform="translate(0)"/>
+        <path id="패스_123" d="M701.669 223.106l-1.8-1.8.384-2.413 3.827 3.829z" class="pencil_line_cls-2" transform="translate(0 -0.735)"/>
+        <path id="사각형_31" d="M0 0H2.31V5.744H0z" class="pencil_line_cls-2" transform="translate(710.258 207.919) rotate(-44.965)"/>
+    </g>
+</svg>

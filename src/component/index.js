@@ -1,0 +1,28 @@
+export { default as K_ok } from './K_ok';
+export { default as K_dragElement } from './K_dragElement';
+export { default as K_drawSegment } from './K_drawSegment';
+export { default as K_pathGetString } from './K_pathGetString';
+export * from './K_word';
+export * from './K_text';
+export * from './K_trace';
+export * from './K_drag';
+export * from './K_choice.js';
+export * from './K_animate';
+export * from './K_connect';
+export * from './K_multipleConnect';
+export * from './K_handWrite';
+export * from './K_button';
+export * from './K_backgroundShape';
+export * from './K_order';
+export * from './K_record';
+export * from './K_fade';
+
+export * from './com_sound';
+export * from './com_image';
+export * from './com_array';
+export * from './com_area';
+export * from './com_util';
+export * from './com_scroll';
+export { default as com_pageConvert } from './com_pageConvert';
+export { default as com_makeModal } from './com_makeModal';
+export * from './com_makePopUp';

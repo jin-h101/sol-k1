@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <style>
+            .arrowDrag_cls-2{fill:#ffff49}
+        </style>
+    </defs>
+    <g id="그룹_59" transform="translate(-423.368 -216.322)">
+        <circle id="타원_3" cx="11" cy="11" r="11" fill="#39a1f1" transform="translate(423.368 216.322)"/>
+        <g id="그룹_58">
+            <g id="그룹_57">
+                <path id="패스_94" d="M436.042 221.766a1.677 1.677 0 1 0-3.354 0v11.113a1.677 1.677 0 1 0 3.354 0z" class="arrowDrag_cls-2"/>
+                <path id="패스_95" d="M431.374 227.515a1.677 1.677 0 0 0-2.372 2.37l4.178 4.18a1.677 1.677 0 1 0 2.371-2.372z" class="arrowDrag_cls-2"/>
+                <path id="패스_96" d="M437.36 227.515a1.677 1.677 0 1 1 2.373 2.37l-4.182 4.18a1.677 1.677 0 0 1-2.371-2.372z" class="arrowDrag_cls-2"/>
+                <path id="패스_97" d="M430.254 227.023h8.446l-.734 2.483h-6.814z" class="arrowDrag_cls-2"/>
+            </g>
+        </g>
+    </g>
+</svg>
